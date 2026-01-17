@@ -9,11 +9,12 @@ body {
 h1 {
   color: brown;
   text-align: center;
+  font-family: calibri;
 }
 
 p {
-  font-family: verdana;
-  font-size: 20px;
+  font-family: calibri;
+  font-size: 14px;
   text-align: center;
 }
 </style>
@@ -22,6 +23,7 @@ p {
 
 </body>
 </html>
+
 
 
 
