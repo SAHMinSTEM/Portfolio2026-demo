@@ -17,12 +17,32 @@ p {
   font-size: 16px;
   text-align: center;
 }
+/* Container for the icons */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Space between icons */
+}
+
+/* Optional: Style for individual icon links */
+.social-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.3s ease;
+}
+
+.social-icons a:hover {
+  opacity: 0.7;
+}
 </style>
 </head>
 <body>
 
 </body>
 </html>
+
 
 
 
