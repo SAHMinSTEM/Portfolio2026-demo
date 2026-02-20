@@ -1,1 +1,1 @@
-This is an updated version of my resume/portfolio for 2026. I was inspired to creating a living resume as a personal growth project. This is to show how developing a documenting habit to update my resume, brick-by-brick!
+This is an updated version of my resume for 2026. I was inspired to creating a living resume as a personal growth project. This is to show how developing a documenting habit by updating my resume, brick-by-brick!
